@@ -1,6 +1,6 @@
 # helecloud_app
 
-
+Please see screenshot file for the high level diagram
 
 To mount EFS file to instance, run the commands below:
 
